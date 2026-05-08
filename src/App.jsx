@@ -6,11 +6,11 @@ import img2 from '../public/AI功能.jpg';
 import img3 from '../public/個人化背景.jpg';
 import img4 from '../public/功能圖示.jpg';
 import img5 from '../public/設定選單.jpg';
-import smoke1 from '../public/1.jpg';
-import smoke2 from '../public/2.jpg';
-import lottery1 from '../public/3.jpg';
-import lottery2 from '../public/4.jpg';
-import lottery3 from '../public/5.jpg';
+import smoke1 from './assets/1.jpg';
+import smoke2 from './assets/2.jpg';
+import lottery1 from './assets/3.jpg';
+import lottery2 from './assets/4.jpg';
+import lottery3 from './assets/5.jpg';
 
 // 作品數據
 const portfolioData = [
