@@ -38,7 +38,7 @@ const portfolioData = [
     title: '台灣天氣應用',
     description: '完整的台灣鄉鎮天氣預報應用。支持搜尋全台368個鄉鎮市、收藏最愛、7天預報、多城市比較等功能。',
     tech: ['React', 'Open-Meteo API', '地理數據'],
-    link: 'https://easymemo.neocities.org/my-weather-app/',
+    link: 'https://my-weather-app-b3z.pages.dev/',
     images: []
   }
 ];
