@@ -6,6 +6,11 @@ import img2 from '../public/AI功能.jpg';
 import img3 from '../public/個人化背景.jpg';
 import img4 from '../public/功能圖示.jpg';
 import img5 from '../public/設定選單.jpg';
+import smoke1 from '../public/1.jpg';
+import smoke2 from '../public/2.jpg';
+import lottery1 from '../public/3.jpg';
+import lottery2 from '../public/4.jpg';
+import lottery3 from '../public/5.jpg';
 
 // 作品數據
 const portfolioData = [
@@ -23,7 +28,7 @@ const portfolioData = [
     description: '專業的排煙量計算工具，支持快速計算和導出結果。實用的工程輔助應用。',
     tech: ['React', 'JavaScript', 'Design'],
     link: 'https://easymemo.neocities.org/5V5V',
-    images: []
+    images: [smoke1, smoke2]
   },
   {
     id: 3,
@@ -31,7 +36,7 @@ const portfolioData = [
     description: '互動式抽獎工具，支持自定義獎項和多輪抽獎。適合各種活動和遊戲場景。',
     tech: ['React', 'PWA', 'Canvas'],
     link: 'https://easymemo.neocities.org/LUCKYPWA/',
-    images: []
+    images: [lottery1, lottery2, lottery3]
   },
   {
     id: 4,
