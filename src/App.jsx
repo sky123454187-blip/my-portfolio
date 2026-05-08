@@ -192,14 +192,14 @@ function PortfolioPage() {
       <div className="portfolio-grid">
         {portfolioData.map(project => (
           <div key={project.id} className="portfolio-card">
-            {project.images && project.images.length > 0 && (
-              <ImageCarousel images={project.images} />
-            )}
             <div className="card-header">
               <h3>{project.title}</h3>
             </div>
             <p className="card-description">{project.description}</p>
             <a href={project.link} target="_blank" rel="noopener noreferrer" className="card-link">查看項目 →</a>
+            {project.images && project.images.length > 0 && (
+              <ImageCarousel images={project.images} />
+            )}
           </div>
         ))}
       </div>

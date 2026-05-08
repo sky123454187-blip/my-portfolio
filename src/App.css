@@ -209,7 +209,7 @@ body {
 /* 圖片輪播 */
 .image-carousel {
   position: relative;
-  margin-bottom: 20px;
+  margin-top: 20px;
   border-radius: 12px;
   overflow: hidden;
   background: #f0f0f0;
